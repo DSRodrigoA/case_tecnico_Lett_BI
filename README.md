@@ -1,5 +1,5 @@
-### Lett
-## Case técnico para Consultor BI Jr.
+## Lett
+### Case técnico para Consultor BI Jr.
 
 Projeto realizado em Microsoft Power BI Desktop.
 
