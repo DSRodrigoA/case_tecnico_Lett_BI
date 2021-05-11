@@ -10,3 +10,9 @@ Projeto realizado em Microsoft Power BI Desktop.
 - Arquivo .zip que contém a introdução, modelagem de dados e relatório do projeto.   
 
 -- ![Lett_Case_Tecnico.zip](https://github.com/DSRodrigoA/case_tecnico_Lett_BI/blob/main/zip%20Files/Lett_Case_Tecnico.zip) 
+
+
+Rodrigo Arruda Carneiro
+EngRodrigoArruda@gmail.com
+
+- Portfolio Projects  https://dsrodrigoa.github.io/
